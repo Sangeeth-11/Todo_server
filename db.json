@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "task": "HTML",
+      "progress": "Completed",
+      "id": 1
+    },
+    {
+      "task": "CSS",
+      "progress": "Completed",
+      "id": 2
+    },
+    {
+      "task": "Javascript",
+      "progress": "Completed",
+      "id": 3
+    },
+    {
+      "task": "React",
+      "progress": " In progress",
+      "id": 4
+    },
+    {
+      "task": "Redux",
+      "progress": " In progress",
+      "id": 5
+    }
+  ]
+}
